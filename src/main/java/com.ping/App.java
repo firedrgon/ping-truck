@@ -1,5 +1,3 @@
-package ping-truck;
-
 /**
  * Hello world!
  *
